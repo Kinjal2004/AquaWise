@@ -4,7 +4,8 @@ const componentData = [
   {
     title: "Affordable Hardware",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet",
+      "We carefully select budget-friendly components, enabling widespread adoption and effective pond management for all users.",
+
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +21,8 @@ const componentData = [
   {
     title: "Intelligent Monitoring",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet",
+      "Efficient pond monitoring enables proactive decisions, minimizing risks in real-time,helping both small and large scale aquaculture industries.",
+
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -36,7 +38,7 @@ const componentData = [
   {
     title: "Disease Prediction",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet",
+      "Disease prediction through ML models anticipates outbreaks, enabling timely interventions. Our models are trained on real-world data, ensuring high accuracy.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
